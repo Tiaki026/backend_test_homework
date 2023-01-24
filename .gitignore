@@ -1,5 +1,4 @@
 #Игнорируем все файлы .doc
 *.doc
 #Ignore test_text_4_ignore2
-test_text_4_ignore2.txt
-
+test_text_4_ignore22.txt
